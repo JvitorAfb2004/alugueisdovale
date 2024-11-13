@@ -1,4 +1,4 @@
-Aqui está um exemplo de um README interativo e detalhado para seu projeto "Aluguéis do Vale".
+
 
 ---
 
@@ -56,49 +56,11 @@ _Tela para contato direto com o responsável pelo imóvel_
 
 ---
 
-## ⚙️ Como Rodar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/alugueis-do-vale.git
-   cd alugueis-do-vale
-   ```
-
-2. Instale as dependências:
-   ```bash
-   npm install
-   ```
-
-3. Configure o Firebase:
-   - Crie um projeto no Firebase.
-   - Habilite Authentication, Firestore e Storage.
-   - Adicione o arquivo de configuração Firebase (`firebaseConfig`) ao projeto.
-
-4. Inicie o servidor de desenvolvimento:
-   ```bash
-   npm run serve
-   ```
-
-5. Acesse o projeto em `http://localhost:8080`.
-
----
-
 ## 📚 Aprendizados e Melhorias
 
 O desenvolvimento do Aluguéis do Vale foi uma excelente oportunidade para explorar as capacidades do **Vue.js** e do **Firebase**. A experiência também permitiu praticar o uso de **ESLint** e **Prettier** para garantir a qualidade e padronização do código.
 
 ---
 
-## 🤝 Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
-
----
-
-## 📄 Licença
-
-Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Feito com ❤️ no Vale do São Francisco
+Feito com ❤️ por João Vítor
