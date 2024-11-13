@@ -47,6 +47,18 @@ Este projeto foi desenvolvido com o intuito de praticar e explorar diferentes fu
 
 ![](https://firebasestorage.googleapis.com/v0/b/genius-saas.appspot.com/o/alugueis%2FImagem%20do%20WhatsApp%20de%202024-11-13%20%C3%A0(s)%2013.40.46_70442e55.jpg?alt=media&token=36fd6c90-2230-4c9e-ace2-1f623c360618)
 
+![](https://firebasestorage.googleapis.com/v0/b/genius-saas.appspot.com/o/alugueis%2FImagem%20do%20WhatsApp%20de%202024-11-13%20%C3%A0(s)%2013.42.02_a6d1d607.jpg?alt=media&token=d54f57eb-336f-4e48-9284-f6150ff294af)
+
+![](https://firebasestorage.googleapis.com/v0/b/genius-saas.appspot.com/o/alugueis%2FImagem%20do%20WhatsApp%20de%202024-11-13%20%C3%A0(s)%2013.42.26_c8b0e3d6.jpg?alt=media&token=4f1d879d-de3a-4996-9505-2ad9cb91fa92)
+
+![](https://firebasestorage.googleapis.com/v0/b/genius-saas.appspot.com/o/alugueis%2FImagem%20do%20WhatsApp%20de%202024-11-13%20%C3%A0(s)%2013.42.58_47ac66e1.jpg?alt=media&token=5dc55d4a-6424-4c83-8014-eb67314a827f)
+
+![](https://firebasestorage.googleapis.com/v0/b/genius-saas.appspot.com/o/alugueis%2FImagem%20do%20WhatsApp%20de%202024-11-13%20%C3%A0(s)%2013.43.40_dd3ca294.jpg?alt=media&token=d26550b1-9a4d-47e8-a37d-9c09f2a2cba4)
+
+![](https://firebasestorage.googleapis.com/v0/b/genius-saas.appspot.com/o/alugueis%2FImagem%20do%20WhatsApp%20de%202024-11-13%20%C3%A0(s)%2013.44.02_ac8aed26.jpg?alt=media&token=103201a1-b228-4a36-ae0f-31bf1a7f5c4b)
+
+![](https://firebasestorage.googleapis.com/v0/b/genius-saas.appspot.com/o/alugueis%2FImagem%20do%20WhatsApp%20de%202024-11-13%20%C3%A0(s)%2013.44.27_4817591e.jpg?alt=media&token=0ec7567b-5f15-45cf-8675-933ad19efb69)
+
 ---
 
 ## 📚 Aprendizados e Melhorias
