@@ -45,14 +45,7 @@ Este projeto foi desenvolvido com o intuito de praticar e explorar diferentes fu
 
 ## 📸 Capturas de Tela
 
-![Tela de Listagem de Imóveis](https://via.placeholder.com/600x300.png?text=Listagem+de+Im%C3%B3veis)
-_Tela de listagem de imóveis disponíveis para aluguel_
-
-![Tela de Detalhes do Imóvel](https://via.placeholder.com/600x300.png?text=Detalhes+do+Im%C3%B3vel)
-_Tela de detalhes de um imóvel específico_
-
-![Tela de Contato com o Responsável](https://via.placeholder.com/600x300.png?text=Contato+com+o+Respons%C3%A1vel)
-_Tela para contato direto com o responsável pelo imóvel_
+https://firebasestorage.googleapis.com/v0/b/genius-saas.appspot.com/o/alugueis%2FImagem%20do%20WhatsApp%20de%202024-11-13%20%C3%A0(s)%2013.40.46_70442e55.jpg?alt=media&token=36fd6c90-2230-4c9e-ace2-1f623c360618
 
 ---
 
