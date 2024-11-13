@@ -1,0 +1,266 @@
+:root {
+  --primary: #4caf50;
+  --escuro: #0e2430;
+  --azulClaro: #567ebb;
+  --azulEscuro: #2b4c7e;
+  --wpp: #25d366;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+*::-webkit-scrollbar {
+  background-color: transparent;
+  width: 0;
+}
+.v-main {
+  background-color: white !important;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  user-select: none;
+  background-color: white !important;
+}
+
+.appbar {
+  padding: 20px !important;
+}
+html {
+  scroll-behavior: smooth !important;
+}
+
+:target {
+  scroll-margin-top: 0.8em !important;
+}
+.btn {
+  background-color: var(--primary) !important;
+  color: white;
+}
+.v-toolbar-title {
+  font-weight: 600 !important;
+  color: var(--primary) !important;
+  font-size: 18pt !important;
+  padding-bottom: 10px !important;
+}
+
+.header-container {
+  padding: 20px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  display: flex;
+  height: auto;
+  min-height: 400px !important;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+
+  width: 90% !important;
+  border-radius: 40px;
+}
+
+.header-title {
+  text-align: center;
+  font-size: 40pt;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-weight: bold; /* Deixe o texto em negrito */
+  background: linear-gradient(
+    45deg,
+    #4caf50,
+    #0077be
+  ); /* Gradiente das cores */
+  -webkit-background-clip: text; /* Para o gradiente ser aplicado ao texto no Chrome/Safari */
+  background-clip: text; /* Para suportar outros navegadores */
+  color: transparent; /* Torna o texto transparente para mostrar o gradiente */
+}
+
+.header-subtitle {
+  font-size: 15pt;
+  font-weight: 400;
+  color: #757575;
+}
+.btn {
+  height: 45px !important;
+  transition: 0.5s ease-out !important;
+  color: white !important;
+  height: 50px;
+  margin-left: 5px;
+  box-shadow: none !important;
+}
+.IconMenu {
+  color: var(--primary) !important;
+}
+/* Aplica o estilo do botão com hover */
+.btn:hover {
+  background-color: transparent !important;
+  color: var(--primary) !important;
+  transition: 0.5s ease-out !important;
+  box-shadow: none !important;
+}
+
+/* Aplica ao ícone dentro do botão */
+.btn:hover .v-icon {
+  color: var(--primary) !important;
+}
+.v-list-item {
+  margin-bottom: 5px !important;
+  transition: 0.5s ease-out !important;
+}
+
+.v-list-item:hover {
+  color: var(--primary) !important;
+  transition: 0.5s ease-out !important;
+}
+
+.drawer {
+  padding-top: 100px !important;
+  padding: 10px;
+}
+.cardImoveis {
+  border-radius: 6px !important;
+  padding: 15px !important;
+  box-shadow:
+    rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px !important;
+}
+.fotoImovel {
+  width: 90%;
+  margin: 0 auto !important;
+  margin: 10px;
+  border-radius: 6px !important;
+}
+.btnDetalhes {
+  height: 42px !important;
+  width: 140px;
+  border-radius: 5px !important;
+  background-color: var(--primary) !important;
+  color: white !important;
+  transition: 0.3s ease-out !important;
+}
+.btnDetalhes:hover {
+  background-color: white !important;
+  color: var(--primary) !important;
+  transition: 0.3s ease-out !important;
+}
+.btns {
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
+.btns button {
+  margin: 5px !important;
+  width: 250px !important;
+}
+
+.rowTop {
+  margin: 0 auto !important;
+  width: 90%;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.rowTop button {
+  background-color: var(--primary) !important;
+  margin-top: -20px;
+  margin-left: 20px;
+  box-shadow:
+    rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px !important;
+}
+.rowTop button .v-icon {
+  color: white !important;
+  font-size: 20pt !important;
+}
+.btnContato {
+  background-color: var(--wpp) !important;
+  height: 45px !important;
+  color: white !important;
+}
+.btnShare {
+  background-color: var(--escuro) !important;
+  color: white !important;
+  height: 45px !important;
+}
+.option {
+  width: 150px !important;
+}
+
+.btnContato .v-icon,
+.btnShare .v-icon {
+  font-size: 15pt;
+
+  padding-right: 15px;
+}
+
+.iconSocialMedia {
+  margin-bottom: 10px;
+  box-shadow: none !important;
+  background-color: var(--primary) !important;
+  color: white !important;
+}
+.footer {
+  background-color: var(--primary) !important;
+  color: white !important;
+}
+.cardImoveis .v-card {
+  padding: 20px;
+}
+.cardImoveis .v-card .v-img {
+  border-radius: 10px !important;
+}
+.estatisticas .v-icon {
+  color: white !important;
+}
+.estatisticas .v-avatar {
+  background-color: var(--primary) !important;
+}
+
+.loading-card {
+  padding: 20px !important;
+  background-color: #f5f5f5;
+  border-radius: 18px !important;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  box-shadow: none !important;
+}
+
+.loading-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--primary);
+}
+
+.loading-title .v-icon {
+  font-size: 24px;
+}
+
+.v-progress-circular {
+  margin-top: 20px;
+}
+
+.close-btn {
+  font-size: 16px;
+  color: var(--primary);
+  font-weight: 500;
+}
+
+/* Adicionando um efeito de transição */
+.v-dialog__content {
+  animation: fadeIn 0.5s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
