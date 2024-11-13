@@ -45,7 +45,7 @@ Este projeto foi desenvolvido com o intuito de praticar e explorar diferentes fu
 
 ## 📸 Capturas de Tela
 
-(https://firebasestorage.googleapis.com/v0/b/genius-saas.appspot.com/o/alugueis%2FImagem%20do%20WhatsApp%20de%202024-11-13%20%C3%A0(s)%2013.40.46_70442e55.jpg?alt=media&token=36fd6c90-2230-4c9e-ace2-1f623c360618)
+![](https://firebasestorage.googleapis.com/v0/b/genius-saas.appspot.com/o/alugueis%2FImagem%20do%20WhatsApp%20de%202024-11-13%20%C3%A0(s)%2013.40.46_70442e55.jpg?alt=media&token=36fd6c90-2230-4c9e-ace2-1f623c360618)
 
 ---
 
